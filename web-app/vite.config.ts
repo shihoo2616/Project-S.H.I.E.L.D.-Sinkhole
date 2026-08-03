@@ -2,6 +2,6 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: "/sinkhole/",
   plugins: [react()],
+  base: '/Project-S.H.I.E.L.D.-Sinkhole/',
 })
