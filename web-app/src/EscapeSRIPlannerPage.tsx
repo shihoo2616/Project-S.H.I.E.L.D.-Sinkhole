@@ -14,7 +14,7 @@ import {
   type PointNodeId,
   type SriBand,
   type SriMetrics,
-} from "./sim/shared";
+} from "./shared";
 import GraphView from "./GraphView";
 
 type EvacDot = {
