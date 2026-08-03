@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import EscapeSRIPlannerPage from "./pages/EscapeSRIPlannerPage";
+import EscapeSRIPlannerPage from "./EscapeSRIPlannerPage";
 
 export default function App() {
   return (
