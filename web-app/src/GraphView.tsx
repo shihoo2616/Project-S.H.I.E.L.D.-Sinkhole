@@ -5,7 +5,7 @@ import {
   type PointData,
   type PointNodeId,
   type SriBand,
-} from "../sim/shared";
+} from "./sim/shared";
 
 type EvacDot = {
   id: string;
